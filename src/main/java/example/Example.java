@@ -1,6 +1,5 @@
 package example;
 
-import com.google.common.base.Joiner;
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.lang.Object;
@@ -11,8 +10,8 @@ public class Example {
 
     public static String join(String... args) {
         if (true) ; else;
-        return Joiner.on(' ').join(args);
+        return join(args);
     }
 
 }
-//sample gradle code - for pushing
+//To check the commit and push work
