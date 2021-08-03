@@ -1,4 +1,5 @@
 //plugins are added here
+//This file is of basic gradle properties
 apply plugin: 'java'
 apply plugin: 'maven'
 

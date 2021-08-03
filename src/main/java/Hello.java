@@ -1,4 +1,4 @@
-
+//sample hello world program
 public class Hello {
   
   public static String GREETING = "Hello world!";
